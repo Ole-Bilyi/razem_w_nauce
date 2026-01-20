@@ -8,20 +8,8 @@
     "start": "next start"
   },
   "dependencies": {
-<<<<<<< HEAD
     "next": "^16.0.8",
     "react": "^19.2.1",
     "react-dom": "^19.2.1"
-=======
-    "@supabase/supabase-js": "^2.78.0",
-    "@vercel/analytics": "^1.5.0",
-    "bcryptjs": "^3.0.3",
-    "iron-session": "^8.0.4",
-    "next": "^16.0.8",
-    "react": "^19.2.1",
-    "react-dom": "^19.2.1",
-    "sass": "^1.94.0",
-    "uuid": "^13.0.0"
->>>>>>> 02f174ae1cb0bbd856869d9fe3fd0a53b086424e
   }
 }
